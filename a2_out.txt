@@ -1,0 +1,8 @@
+BFS: Boston, New York City, Pittsburgh, Columbus, Chicago, Minneapolis
+BFS: Las Vegas, Albuquerque, Dallas, San Antonio
+BFS: Dallas
+BFS: Denver, Salt Lake City, Las Vegas, Los Angeles, San Francisco, Portland, Seattle
+DFS: Baltimore, Washington, Charlotte, Atlanta, Nashville, Columbus, Indianapolis, St. Louis, Kansas City, Denver, Salt Lake City, Las Vegas, Los Angeles, San Francisco, Portland, Seattle, Minneapolis
+DFS: Houston, New Orleans, Memphis, Atlanta, Nashville, Columbus, Indianapolis, St. Louis, Kansas City, Denver, Salt Lake City, Las Vegas, Los Angeles, Phoenix, Albuquerque, Dallas, San Antonio
+DFS: New York City
+DFS: Oklahoma City, Dallas, Houston, New Orleans, Memphis, Atlanta, Nashville, Columbus, Indianapolis, St. Louis, Kansas City, Denver, Salt Lake City
